@@ -1,7 +1,14 @@
+# ShoppiSphere E-Commerce Project
+
+## Project Overview
+
+A modern e-commerce platform built with React, TypeScript, and Vite.
+
+## How can I edit this code?
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. 
+You can clone this repo and make changes locally using your preferred code editor.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -45,3 +52,13 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## How can I deploy this project?
+
+You can deploy this project using various platforms like Vercel, Netlify, or any hosting service that supports Node.js and npm builds.
+
+Standard deployment steps:
+```sh
+npm run build
+```
+
+Then deploy the `dist` folder to your hosting provider.
